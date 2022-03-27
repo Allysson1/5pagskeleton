@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/81646221/157980442-d20a0afa-63d2-4f0c-b801-ed7e5439be87.png">
 <div>
   
-## Estas iamgens acima são apenas um resumo do projeto.
+## Estas imagens acima são apenas um resumo do projeto.
   
 Este trabalho foi desenvolvido no primeiro semestre de 2021, com o intuito de aprender os principais comandos do Git.
   
